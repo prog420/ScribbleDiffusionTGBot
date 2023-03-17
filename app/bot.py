@@ -155,7 +155,7 @@ async def on_shutdown(dp):
 
 if __name__ == '__main__':
     # Enable logging
-    # DefaultConfig.init_logging()
+    DefaultConfig.init_logging()
     # Start the Bot
     if DefaultConfig.MODE == "webhook":
         start_webhook(

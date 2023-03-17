@@ -26,4 +26,4 @@ This simple **unofficial** bot uses API of Replicate-powered app [scribblediffus
 Available to deploy on [Railway](https://railway.app/) or [Render](https://render.com/).
 
 ---
-Example: https://t.me/scribble_diff_bot
+![image](samples/1.jpg)
