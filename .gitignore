@@ -1,0 +1,8 @@
+# Config file
+app/.env
+# Env dir
+venv
+# IDE dir
+.idea
+# Cache dir
+__pycache__
